@@ -1,0 +1,5 @@
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Archivos.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.pdb

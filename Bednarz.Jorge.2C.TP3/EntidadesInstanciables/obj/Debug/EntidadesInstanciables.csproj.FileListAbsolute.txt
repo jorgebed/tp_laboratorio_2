@@ -1,0 +1,11 @@
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

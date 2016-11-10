@@ -1,0 +1,5 @@
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

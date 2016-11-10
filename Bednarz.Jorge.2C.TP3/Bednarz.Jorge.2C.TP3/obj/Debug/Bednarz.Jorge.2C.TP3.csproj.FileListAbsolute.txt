@@ -1,0 +1,14 @@
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.exe.config
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.exe
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Archivos.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\EntidadesAbstractas.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\EntidadesInstanciables.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Archivos.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\EntidadesAbstractas.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\EntidadesInstanciables.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Excepciones.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.exe
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.pdb

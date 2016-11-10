@@ -1,0 +1,7 @@
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\UTN\LABORATORIO II\2016\TP3\Bednarz.Jorge.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
